@@ -5,6 +5,7 @@
  */
 public class Topic1 {
     public static void main(String [] args){
-        System.out.println("Hello Word!");
+        int month = 1;
+        System.out.print(month);
     }
 }
