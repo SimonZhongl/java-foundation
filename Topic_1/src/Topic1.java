@@ -9,7 +9,7 @@ public class Topic1 {
     public static void main(String[] args) {
         Scanner sr = new Scanner(System.in);
         int month = sr.nextInt();
-        int rabbits = 1, n_1 = 0, n_2 = 1;
+        int rabbits, n_1 = 0, n_2 = 1;
         if (month == 1 || month == 0) {
             rabbits = 1;
             System.out.print(rabbits);

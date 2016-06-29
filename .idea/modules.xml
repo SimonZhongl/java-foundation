@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fail/Fail.iml" filepath="$PROJECT_DIR$/Fail/Fail.iml" />
       <module fileurl="file://$PROJECT_DIR$/Topic_1/Topic_1.iml" filepath="$PROJECT_DIR$/Topic_1/Topic_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topic_2/Topic_2.iml" filepath="$PROJECT_DIR$/Topic_2/Topic_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topic_3/Topic_3.iml" filepath="$PROJECT_DIR$/Topic_3/Topic_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topic_4/Topic_4.iml" filepath="$PROJECT_DIR$/Topic_4/Topic_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topic_5/Topic_5.iml" filepath="$PROJECT_DIR$/Topic_5/Topic_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-foundation.iml" filepath="$PROJECT_DIR$/java-foundation.iml" />
     </modules>
   </component>
